@@ -42,6 +42,8 @@ public class CarteController implements JeuCartes, ActionListener {
         this.compteurLabel = compteurLabel;
     }
 
+    // Modifier les codes...
+
 
     public ArrayList<Integer> getListValues() {
         return listValues;
